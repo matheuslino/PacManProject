@@ -16,8 +16,8 @@ Implementation of the classic Pacman game in java language. The main objective w
 
 ## Instructions
 
-* **UML Diagram:** .DIA and .PNG files containing the complete diagram. Located in the **UML folder**
-* **Maps:** some maps examples, with a spreadsheet containing a complete tutorial on how to create your own map using a "graphical tool" to help you. All of this can be found in the **Maps folder**
+* **UML Diagram:** .DIA and .PNG files containing the complete diagram. Located in the **UML folder**.
+* **Maps:** some maps examples, with a spreadsheet containing a complete tutorial on how to create your own map using a "graphical tool" to help you. All of this can be found in the **Maps folder**.
 * **Application:** the entire Java application is located in the **Application folder**. You can download it and import it into your personal project if you want.
 
 
