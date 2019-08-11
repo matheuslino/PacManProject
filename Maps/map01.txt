@@ -1,0 +1,13 @@
+level:EASY
+x x x x x x x x x x x x
+x * * * * * * * * * * x
+x * x x * x x x x x * x
+x * x * * * * * * x * x
+x * x * x x x x * x * x
+x x x * * * * * * * * x
+x * * * x G x * x x * x
+x * x * x x x * * x * x
+x * x * * * * x * x * x
+x * x x * x x x * x * x
+x * * * * * * * P * * x
+x x x x x x x x x x x x
