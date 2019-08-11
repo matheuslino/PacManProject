@@ -28,7 +28,7 @@ Implementation of the classic Pacman game in java language. The main objective w
 
 ## Version
 
-> Release: `1.0.0`
+> Release: `1.0.2`
 
 
 ## License
